@@ -1,4 +1,5 @@
-#filename: config.library-ms
+#filename: config.library-ms 
+#Save as No extension
 #IDE: vs code 
 #create a shortcut containing Powercat reverse shell at the same time 
 #change Url = local host
